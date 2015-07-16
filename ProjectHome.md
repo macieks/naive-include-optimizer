@@ -1,0 +1,1 @@
+Optimizes #includes in Visual Studio C++ projects by brute-force attempting to remove each of the #include occurrence in the code.
